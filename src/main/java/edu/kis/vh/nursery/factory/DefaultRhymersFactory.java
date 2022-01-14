@@ -22,7 +22,7 @@ public class DefaultRhymersFactory implements Rhymersfactory {
 	}
 
 	@Override
-	public DefaultCountingOutRhymer GetHanoiRhymer() {
+	public DefaultCountingOutRhymer getHanoiRhymer() {
 		return new HanoiRhymer();
 	}
 
