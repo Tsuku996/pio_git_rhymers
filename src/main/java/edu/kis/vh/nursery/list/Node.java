@@ -30,3 +30,5 @@ public class Node {
 		this.next = next;
 	}
 }
+
+#brak niepotrzebnych setterów
